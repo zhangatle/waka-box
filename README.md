@@ -4,6 +4,9 @@
   <p align="center">Updates a pinned gist to contain your weekly WakaTime stats</p>
 </p>
 
+ <!--START_SECTION:waka-->
+ <!--END_SECTION:waka-->
+
 ---
 
 > 📌✨ For more pinned-gist projects like this one, check out: https://github.com/matchai/awesome-pinned-gists
